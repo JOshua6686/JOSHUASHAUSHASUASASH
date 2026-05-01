@@ -1,0 +1,102 @@
+import math
+
+#Basic python area calculator
+print("Circle, Square, Rectangle, Triangle")
+
+shape = input("What shape would you like to calculate the area of: ")
+
+if shape == "Circle" or "circle":
+    radius = float(input("What is the radius: "))
+    Circle_Area = radius ** 2 * math.pi
+    print(f"The area of your circle is: {Circle_Area}")
+
+elif shape == "Square" or "square":
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
