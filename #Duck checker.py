@@ -6,5 +6,5 @@ length = len(para)
 
 if "duck" in para:
     print("The paragraph contains the word duck.")
-
-print(length)
+else:
+    print("The paragraph does not contain the word duck.")
